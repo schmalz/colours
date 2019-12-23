@@ -1,5 +1,5 @@
 # Colours
 
-Some simple vectors of the HSB values of the [https://ethanschoonover.com/solarized/](Solarized) palette.
+Some simple vectors of the HSB values of the [Solarized](https://ethanschoonover.com/solarized/) palette.
 
-If using [http://www.quil.info/](Quil), set the colour mode to `hsb 360 100 100` and `apply` the colours.
+If using [Quil](http://www.quil.info/), set the colour mode to `hsb 360 100 100` and `apply` the colours.
