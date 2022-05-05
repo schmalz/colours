@@ -1,4 +1,4 @@
-(ns colours)
+(ns colours.core)
 
 (def base03 [193 100 21])
 (def base02 [192 90 26])
